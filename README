@@ -1,0 +1,5 @@
+Java implementation of estimators of global/local completeness of event logs.
+
+Codes in the packages org.processmining.* can be used in the LogMetrics plugin of ProM 6.1.
+
+A paper discussing the detail of these estimators will appear soon.
